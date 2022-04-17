@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1b6f55f-7b37-40ef-9778-a1d3b1a7d7d7": {
+      "ProjectGuid": "e1b6f55f-7b37-40ef-9778-a1d3b1a7d7d7",
+      "DisplayName": "MiCalculadora",
+      "ColorIndex": 0
+    },
+    "b8a875e3-a96e-4246-a231-086825d75318": {
+      "ProjectGuid": "b8a875e3-a96e-4246-a231-086825d75318",
+      "DisplayName": "Entidades",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
